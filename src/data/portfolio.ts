@@ -29,7 +29,7 @@ export const portfolio = {
   email: 'YOUR_EMAIL',
   github: 'https://github.com/ayubmuhumed2-lgtm',
   linkedin: 'https://www.linkedin.com/in/ayub-hared-735a44393/',
-  cvPath: '/YOUR_CV_PATH.pdf',
+  cvPath: 'Ayub_Hared_Muhumed_CV.pdf',
 
   intro:
     'I build practical technology solutions that solve real-world problems.',
