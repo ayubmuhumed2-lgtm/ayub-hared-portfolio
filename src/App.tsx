@@ -639,7 +639,7 @@ function Home() {
 
             {/* PROFILE PHOTO — ADDED HERE */}
             <div className="mb-8 flex justify-center">
-              <div className="h-80 w-72 overflow-hidden rounded-2xl border border-border bg-card shadow-lg">
+              <div className="h-40 w-72 overflow-hidden rounded-2xl border border-border bg-card shadow-lg">
                 <img
                   src="/profile.png"
                   alt="Ayub Hared Muhumed"
