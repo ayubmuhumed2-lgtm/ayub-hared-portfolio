@@ -638,15 +638,16 @@ function Home() {
           <div className="relative z-10 reveal is-visible [transition-delay:150ms]">
 
             {/* PROFILE PHOTO — ADDED HERE */}
-            <div className="mb-8 flex justify-center">
-              <div className="h-64 w-72 overflow-hidden rounded-2xl border border-border bg-card shadow-lg">
-                <img
-                  src="/profile.png"
-                  alt="Ayub Hared Muhumed"
-                  className="h-full w-full object-cover object-top"
-                />
-              </div>
-            </div>
+<div className="mb-8 flex justify-center">
+  <div className="h-80 w-72 overflow-hidden rounded-2xl border border-border bg-card shadow-lg">
+    <img
+      src="/profile.png"
+      alt="Ayub Hared Muhumed"
+      className="h-full w-full object-cover object-top"
+    />
+  </div>
+</div>
+{/* END PROFILE PHOTO */}
             {/* END PROFILE PHOTO */}
 
             <TerminalCard />
